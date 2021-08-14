@@ -5,5 +5,4 @@ altair
 seaborn
 plotly
 sklearn
-math
 numpy

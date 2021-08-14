@@ -2,7 +2,7 @@ streamlit
 pandas
 matplotlib.pyplot
 altair
-seaborn as sns
+seaborn
 plotly.figure_factory
 plotly.graph_objs
 plotly.express
